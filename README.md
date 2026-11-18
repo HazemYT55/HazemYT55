@@ -1,8 +1,10 @@
- <div align="center">
+<div align="center">
 
-<img src="./bannar.jpg" width="100%" alt="Hazem - Developer Banner" />
+<br/>
 
-# Hazem
+<img src="./bannar.jpg" width="100%" alt="Hazem Developer Banner" />
+
+# Hazem <img src="./logo.png" width="120" alt="Hazem Logo" />
 
 ### Full-Stack Developer · Programmer · Tech Creator
 
